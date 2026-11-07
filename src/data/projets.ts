@@ -1,6 +1,5 @@
 import type { Projet } from "@/types/portfolio";
 
-// annee: null = année à compléter (non connue à ce jour, rien d'inventé).
 // image: null = capture à ajouter (aucun projet concerné pour le moment).
 export const projets: Projet[] = [
   {
@@ -9,7 +8,7 @@ export const projets: Projet[] = [
     description:
       "Présentation de mon entreprise et de son offre de prospection B2B.",
     url: "https://www.easycontactsolution.fr/",
-    annee: null,
+    annee: 2025,
     tags: ["Site vitrine", "B2B"],
     image: "/images/easy-contact-solution.jpg",
     imageLegende: "Capture du site · novembre 2026",
@@ -20,7 +19,7 @@ export const projets: Projet[] = [
     description:
       "Site de présentation de services de développement, d’automatisation et d’intelligence artificielle.",
     url: "https://rsandco.easycontactsolution.fr/",
-    annee: null,
+    annee: 2026,
     tags: ["Studio", "Développement"],
     image: "/images/rsandco.jpg",
     imageLegende: "Capture du site · octobre 2026",
@@ -31,7 +30,7 @@ export const projets: Projet[] = [
     description:
       "Présentation d’une maison événementielle, de ses univers et de son offre.",
     url: "https://www.parissimevent.fr/",
-    annee: null,
+    annee: 2026,
     tags: ["Site vitrine", "Événementiel"],
     image: "/images/parissim.jpg",
     imageLegende: "Capture du site · octobre 2026",
@@ -42,7 +41,7 @@ export const projets: Projet[] = [
     description:
       "Présentation d’une offre de leads B2C et de campagnes de communication.",
     url: "https://nexia.easycontactsolution.fr/",
-    annee: null,
+    annee: 2026,
     tags: ["Site vitrine", "B2C"],
     image: "/images/nexia.jpg",
     imageLegende: "Capture du site · novembre 2026",
@@ -53,7 +52,7 @@ export const projets: Projet[] = [
     description:
       "Présentation d’un service de détection de signaux de fermeture et de rotation de locaux commerciaux.",
     url: "https://fermeture.co/",
-    annee: null,
+    annee: 2026,
     tags: ["Immobilier", "Détection"],
     image: "/images/fermeture-co.jpg",
     imageLegende: "Capture du site · novembre 2026",
@@ -63,7 +62,7 @@ export const projets: Projet[] = [
     titre: "ECS Apporteurs",
     description: "Portail pour la contribution de contacts d’entreprises.",
     url: "https://apporteur.easycontactsolution.fr/",
-    annee: null,
+    annee: 2026,
     tags: ["Plateforme", "Acquisition"],
     image: "/images/ecs-apporteurs.jpg",
     imageLegende: "Capture du site · novembre 2026",

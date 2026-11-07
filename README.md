@@ -73,7 +73,7 @@ Les tags sont affichés un par un avec `tags.map(...)` dans `TagList`. Le filtre
 
 ## À compléter avant le rendu
 
-- Année de chaque projet : `annee: null` dans `src/data/projets.ts` (affiche « Année à compléter »). Remplacer par un nombre, ex. `annee: 2026`.
+- Année de chaque projet : renseignée dans `src/data/projets.ts` (2025 pour Easy Contact Solution, 2026 pour les autres).
 - Images : les 6 projets ont une capture de page d'accueil publique (octobre ou novembre 2026). Pour en changer, remplacer le fichier dans `public/images`. Sans image, mettre `image: null`.
 - Rôle, technologies et dates du parcours, déjà marqués « à compléter » sur le site.
 
