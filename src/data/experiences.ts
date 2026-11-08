@@ -17,10 +17,10 @@ export const experiences: Experience[] = [
   },
   {
     date: "Vers 2023 · repère approximatif",
-    titre: "Restauration",
-    role: "Expérience professionnelle",
+    titre: "Café Mexico, place Mexico",
+    role: "Poste à compléter",
     description:
-      "Travail dans la restauration, avant mon expérience chez GRAAD Santé. Établissement et poste précis à compléter.",
+      "Travail dans la restauration, avant mon expérience chez GRAAD Santé.",
   },
   {
     date: "Décembre 2022",
@@ -30,7 +30,7 @@ export const experiences: Experience[] = [
       "Expérience professionnelle dans le secteur de l’événementiel.",
   },
   {
-    date: "Classe de 3e · date à compléter",
+    date: "Classe de 3e · 2020",
     titre: "Cabinet vétérinaire",
     role: "Stage d’observation",
     description:
