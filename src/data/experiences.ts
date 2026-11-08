@@ -9,18 +9,17 @@ export const experiences: Experience[] = [
       "Création de mon entreprise, autour de la prospection B2B et de projets numériques.",
   },
   {
+    date: "Juin à août 2024",
+    titre: "Café Mexico, place Mexico",
+    role: "Serveur",
+    description: "Travail dans la restauration.",
+  },
+  {
     date: "Janvier 2024",
     titre: "GRAAD Santé",
     role: "Téléprospecteur",
     description:
       "Expérience en téléprospection au sein d’un organisme de formation pour les professionnels de santé.",
-  },
-  {
-    date: "Vers 2023 · repère approximatif",
-    titre: "Café Mexico, place Mexico",
-    role: "Poste à compléter",
-    description:
-      "Travail dans la restauration, avant mon expérience chez GRAAD Santé.",
   },
   {
     date: "Décembre 2022",
@@ -31,9 +30,9 @@ export const experiences: Experience[] = [
   },
   {
     date: "Classe de 3e · 2020",
-    titre: "Cabinet vétérinaire",
+    titre: "Clinique Vétérinaire Bastille / République",
     role: "Stage d’observation",
     description:
-      "Stage de troisième dans un cabinet vétérinaire. Nom du cabinet à compléter.",
+      "Stage de troisième auprès du Dr Frédéric Zakine (Paris 11e).",
   },
 ];
