@@ -17,10 +17,12 @@ export default function Parcours() {
       </div>
       <div className="education">
         <h3>Ma formation</h3>
-        <p>IIM Digital School · Études en informatique · depuis 2023</p>
+        <p>
+          IIM Digital School · Axe Coding and Digital Innovation · deuxième
+          année · depuis 2023
+        </p>
         <p className="muted">
-          Intitulé du cursus et année d’étude à compléter. Aucun diplôme
-          obtenu n’est revendiqué dans ce portfolio.
+          Aucun diplôme obtenu n’est revendiqué dans ce portfolio.
         </p>
       </div>
     </div>
