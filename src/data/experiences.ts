@@ -9,7 +9,7 @@ export const experiences: Experience[] = [
       "Création de mon entreprise, autour de la prospection B2B et de projets numériques.",
   },
   {
-    date: "Date à compléter",
+    date: "Janvier 2024",
     titre: "GRAAD Santé",
     role: "Téléprospecteur",
     description:
@@ -23,11 +23,11 @@ export const experiences: Experience[] = [
       "Travail dans la restauration, avant mon expérience chez GRAAD Santé. Établissement et poste précis à compléter.",
   },
   {
-    date: "Date à compléter",
+    date: "Décembre 2022",
     titre: "Volange",
-    role: "Événementiel",
+    role: "Responsable de la communication et promoteur",
     description:
-      "Expérience professionnelle dans le secteur de l’événementiel. Poste et missions à préciser.",
+      "Expérience professionnelle dans le secteur de l’événementiel.",
   },
   {
     date: "Classe de 3e · date à compléter",
