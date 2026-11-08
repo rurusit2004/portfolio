@@ -21,9 +21,6 @@ export default function Parcours() {
           IIM Digital School · Axe Coding and Digital Innovation · deuxième
           année · depuis 2023
         </p>
-        <p className="muted">
-          Aucun diplôme obtenu n’est revendiqué dans ce portfolio.
-        </p>
       </div>
     </div>
   );
