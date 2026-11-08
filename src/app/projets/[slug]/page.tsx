@@ -45,9 +45,6 @@ export default async function PageProjet({ params }: PageProjetProps) {
         legende={projet.imageLegende}
       />
       <p className="intro">{projet.description}</p>
-      <p className="muted">
-        Rôle, technologies et livrables de ce projet à documenter.
-      </p>
       <p className="project-link">
         <LienExterne href={projet.url}>Consulter le projet ↗</LienExterne>
       </p>
