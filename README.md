@@ -79,7 +79,10 @@ Les tags sont affichés un par un avec `tags.map(...)` dans `TagList`. Le filtre
 
 ## Mise en ligne et dépôt
 
-Non faits. Le rendu demande un dépôt GitHub (avec des commits réguliers et explicites) et un site sur Vercel : importer le dépôt sur vercel.com, le framework Next.js est détecté tout seul.
+- Dépôt GitHub : https://github.com/rurusit2004/portfolio
+- Site en ligne (Vercel) : https://portfolio-rubensitbon123-9477s-projects.vercel.app/
+
+Le site se redéploie automatiquement à chaque push sur la branche `main`.
 
 ## Pour le QCM
 
